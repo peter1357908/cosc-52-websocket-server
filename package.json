@@ -1,8 +1,9 @@
 {
   "name": "example_express_with_es6",
-  "version": "3.0.0",
+  "version": "1.0.0",
   "description": "",
-  "author": "",
+  "repository": "git@github.com:peter1357908/cosc-52-websocket-server.git",
+  "author": "Peter Gao <peter1357908@hotmail.com>",
   "main": "src/server.js",
   "scripts": {
     "test": "eslint src/**.js",
